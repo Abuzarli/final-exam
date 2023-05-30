@@ -1,0 +1,97 @@
+.hero{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('https://preview.colorlib.com/theme/gym/img/header-bg.jpg.webp');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+
+.hero_title{
+    text-align: center;
+    font-size: 45px;
+    line-height: 54px;
+    margin: 20px 0 0;
+}
+.hero_text{
+    text-align: center;
+    font-size: 14px;
+    line-height: 22.75px;
+    margin: 0 0 16px;
+    padding: 20px 0;
+}
+.section_2{
+    margin: 80px 0;
+    width: 50%;
+    margin: 0 auto;
+}
+.section_2_title{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+.section_2_h1{
+    font-size:36px;
+    line-height:43.2px;
+    color: black;
+
+}
+.section_2_text{
+    font-size: 14px;
+    line-height: 22.75px;
+    margin: 0 0 16px;
+    color: black;
+}
+.card_title{
+    font-size: 18px;
+    line-height: 21.6px;
+    padding: 20px 0;
+}
+.card_price{
+    font-size: 18px;
+    line-height: 21.6px;
+    padding: 20px 0;
+    color: red;
+}
+
+.section_4{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('https://preview.colorlib.com/theme/gym/img/callto-bg.jpg.webp');
+    background-size: cover;
+    height: 50vh;
+    margin-bottom: 100px;
+}
+.data_image{
+    object-fit: contain;
+    height: 7vh;
+    background-position: top center;
+}
+.section_4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.section_title{
+font-size: 36px;
+line-height: 43.2px;
+}
+
+.section_text{
+    text-align: center;
+    font-size: 14px;
+    line-height: 22.75px;
+    padding: 20px 0px;
+}
+
+.footer_text{
+    font-size: 20px;
+}
+
+.footer{
+    margin-bottom:20px ;
+}
